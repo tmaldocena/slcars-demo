@@ -26,8 +26,8 @@ export function HeroSection() {
         <title>SL Cars — El auto que soñás, al alcance que merecés</title>
         <meta name="description" content="Concesionaria en San Luis con más de 500 vehículos verificados. Financiación propia, atención personalizada y entrega en todo el país." />
       </Helmet>
-      <div className="w-full min-h-dvh min-h-screen flex items-center justify-center p-3 md:p-5 bg-[#0a0a0f]">
-        <section className="relative w-full max-w-[1536px] min-h-full rounded-[1.5rem] md:rounded-[3rem] overflow-hidden shadow-none flex flex-col items-center bg-white/10 group">
+      <div className="w-full h-dvh h-screen flex items-center justify-center p-3 md:p-5 bg-[#0a0a0f]">
+        <section className="relative w-full max-w-[1536px] h-full rounded-[1.5rem] md:rounded-[3rem] overflow-hidden shadow-none flex flex-col items-center bg-white/10 group">
 
           <video
             autoPlay
